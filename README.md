@@ -1,4 +1,4 @@
-# kubeimooc
+# kubeibaimei-server
 
 imooc课程：go语言k8s集群管理工具
 
