@@ -1,6 +1,6 @@
 # kubeibaimei-server
 
-imooc课程：go语言k8s集群管理工具
+go语言k8s集群管理工具
 
 开发环境说明：
 
